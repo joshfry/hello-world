@@ -1,0 +1,19 @@
+{
+  "name": "@joshfry/hello-world",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshfry/hello-world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshfry/hello-world/issues"
+  },
+  "homepage": "https://github.com/joshfry/hello-world#readme"
+}
